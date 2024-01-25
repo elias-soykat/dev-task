@@ -53,7 +53,7 @@ Movies page:
 ## How to submit your solution
 
 - Push your code to the `deve` branch - we encourage you to commit regularly to show your thinking process was.
-- **Create a new Pull Request** to `main` branch & **merge it**.
+- **Create a new Pull Request** to `master` branch & **merge it**.
 
 Once merged you **won't be able to change or add** anything to your solution, so double-check that everything is as
 you expected!
