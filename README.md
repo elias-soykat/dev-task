@@ -37,7 +37,7 @@ Movies page:
 
 #### Considerations
 
-* Through [this Figma link (account required)](https://www.figma.com/file/90WRseoBj1wkPqXPRhbBFw/GW-867-Dreadful-tomatoes-challenge) or through [this ZIP](https://static.rviewer.io/challenges/assets/dreadful-tomatoes/assets.zip), you can download all the
+* Through [this Figma link (account required)](https://www.figma.com/file/KMDxOwdjYz3sVGJ1j9zptF/Dreadful-Tomatoes?type=design&node-id=0-1&mode=design) you can download all the
 assets to start!
 * To obtain the data of the TV Shows and Movies, you have to request [this file](https://static.rviewer.io/challenges/datasets/dreadful-tomatoes/data.json)
 * Use SCSS or SASS to manage your stylesheets
